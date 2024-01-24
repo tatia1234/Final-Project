@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "empty_state_beauty_box_shelf_placeholder.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}
